@@ -24,7 +24,7 @@ Como Usar
 Clonar o Repositório
 
 Clone este repositório para sua máquina local:
-git clone https://github.com/bryan-M-almeida/gerenciador-tarefas-inteligente.git
+git clone [https://github.com/bryan-M-almeida/gerenciador-tarefas-inteligente.git](https://github.com/Bryan-M-Almeida/gerenciador-inteligente.git)
 Abrir o Projeto
 
 Navegue até o diretório do projeto clonado e abra o arquivo index.html em um navegador de sua preferência.
